@@ -20,3 +20,10 @@ This work is licensed under the MIT license.
 ### Variants in Other Languages
 
  - **Julia**: [100 Julia Exercises](https://github.com/RoyiAvital/Julia100Exercises).
+
+
+## Common methods of ndarray in numpy
+### 1. Shape Manipulation: .reshape(shape); .flatten(); .transpose; .T; .squeeze()
+### 2. Statistical: .sum(); .min(); .max(); .mean(); .std(); .var(); .cumsum()
+### 3. Search & Location: .argmax(); .agrmin(); .nonzero(); .sort()
+### 4. Inspection: .tolist(); .all(); .any()
